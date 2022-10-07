@@ -1,10 +1,10 @@
 {
-    "sitename":"pai233の小站",
+    "sitename":"BOYBLOG",
     "allowlist": [
-        "pai233.top"
+        "boyblog.pages.dev"
     ],
     "backTo": {
-        "url": "https://blog.pai233.top/",
-        "sitename": "pai233の小窝"
+        "url": "https://boyblog.pages.dev",
+        "sitename": "BOYBLOG"
     }
 }
